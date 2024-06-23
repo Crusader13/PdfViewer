@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="action_previous">Vorheige Seite</string>
+    <string name="action_next">Nächste Seite</string>
+    <string name="action_open">Dokument öffnen</string>
+    <string name="action_first">Erste Seite</string>
+    <string name="action_last">Letzte Seite</string>
+    <string name="action_jump_to_page">Zur Seite springen</string>
+    <string name="action_rotate_clockwise">Im Uhrzeigersinn drehen</string>
+    <string name="action_rotate_counterclockwise">Gegen den Uhrzeigersinn drehen</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_save_as">Speichern unter</string>
+    <string name="action_view_document_properties">Eigenschaften</string>
+    <string name="debug_action_toggle_text_layer_visibility">Text Sichtbarkeit umschalten</string>
+    <string name="document_properties_invalid_date">Ungültiges Datum</string>
+    <string name="document_properties_retrieval_failed">Metadaten konnten nicht geladen werden</string>
+    <string name="invalid_mime_type">Öffnen von Dateien mit ungültigen MIME Typ nicht möglich</string>
+    <string name="legacy_file_uri">Öffnen von veralteten Dateipfaden aus unsicheren Apps nicht möglich</string>
+    <string name="error_while_opening">Fehler beim Öffnen des Inhalts aufgetreten</string>
+    <string name="error_while_saving">Fehler beim Speichern aufgetreten</string>
+    <string name="webview_out_of_date_title">WebView ist veraltet</string>
+    <string name="webview_out_of_date_message">Deine WebView Version ist %1$d. WebView muss mindestens Version %2$d haben, damit der PDF Viewer funktioniert.</string>
+    <string name="password_prompt_hint">Passwort</string>
+    <string name="password_prompt_description">Gib das Passwort zum Entschlüsseln der PDF Datei ein</string>
+    <string name="open">Öffnen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="file_name">Dateiname</string>
+    <string name="file_size">Dateigröße</string>
+    <string name="title">Titel</string>
+    <string name="author">Autor</string>
+    <string name="subject">Thema</string>
+    <string name="keywords">Schlüsselwörter</string>
+    <string name="creation_date">Erstellungsdatum</string>
+    <string name="modify_date">Änderungsdatum</string>
+    <string name="producer">Produzent</string>
+    <string name="creator">Ersteller</string>
+    <string name="pdf_version">PDF Version</string>
+    <string name="pages">Seiten</string>
+    <string name="unknown_file_size">Unbekannt</string>
+</resources>
